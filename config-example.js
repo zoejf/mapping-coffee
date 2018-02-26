@@ -1,0 +1,3 @@
+function getAccessKey () {
+  return 'yourMapBoxAccessKey'
+}
